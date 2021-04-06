@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DreamCastle.Id</string>
+    <string name="product_name">Product Name</string>
+    <string name="favorite">favorite</string>
+    <string name="detail">detail</string>
+    <string name="share">share</string>
+    <string name="dicky_widya_angga_kusuma">Dicky Widya Angga Kusuma</string>
+    <string name="dickyangga73_gmail_com">dickyangga73@gmail.com</string>
+    <string name="about">About</string>
+</resources>
